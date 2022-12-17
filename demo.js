@@ -3,3 +3,4 @@ const fxn = () => {
 }
 
 fxn();
+fxn();
