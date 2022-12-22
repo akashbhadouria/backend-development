@@ -10,3 +10,4 @@ function send(url, data) {
 module.exports = {
     send
 }
+

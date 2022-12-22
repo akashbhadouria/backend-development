@@ -9,3 +9,4 @@ function makeRequest(url, data) {
 const res = makeRequest('my url', 'DATA');
 console.log(res);
 
+
